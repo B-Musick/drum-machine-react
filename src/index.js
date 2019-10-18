@@ -8,7 +8,7 @@ import ReactDOM from 'react-dom';
 const App = () => {
     return (
         <div>
-            <h2>DRUM MACHINE</h2>
+            <h2>TONE GENERATOR</h2>
             <div id="drum-machine">
                 <DrumPads />
             </div>
